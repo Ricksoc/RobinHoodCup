@@ -3,7 +3,7 @@ import { nanoid } from "nanoid";
 
 export default function Champions({ data }) {
   // Extract winning team for each year and sort array by inverse years
-  let winners = [];
+  const winners = [];
 
   data.forEach((team) => {
     team.seasons.forEach((season) => {
