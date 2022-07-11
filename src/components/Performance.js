@@ -48,8 +48,6 @@ export default function Performance({ data }) {
     }
   });
 
-  console.log(teamData);
-
   const tableRows = teamData.map((team) => {
     return (
       <tr key={nanoid()}>
