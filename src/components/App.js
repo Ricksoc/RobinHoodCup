@@ -1,9 +1,19 @@
 import React from "react";
+import Champions from "./Champions";
+import Performance from "./Performance";
+import data from "./data/data.json";
 
 export default function App() {
   return (
-    <>
-      <h1>Hello, world</h1>
-    </>
+    <div className="container">
+      <div className="header">
+        <h1 className="title">Robin Hood Cup</h1>
+        <img src="../../images/favicon.ico" alt="Trophy" />
+      </div>
+      <div className="summary">
+        <Champions data={data} />
+        <Performance data={data} />
+      </div>
+    </div>
   );
 }
