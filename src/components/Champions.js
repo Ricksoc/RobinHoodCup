@@ -1,4 +1,5 @@
 import React from "react";
+import { nanoid } from "nanoid";
 
 export default function Champions({ data }) {
   // Extract winning team for each year and sort array by inverse years
@@ -22,14 +23,12 @@ export default function Champions({ data }) {
 
   const tableRows = winners.map((season) => {
     return (
-      <tr>
+      <tr key={nanoid()}>
         <td>{season.year}</td>
         <td>{season.winner}</td>
       </tr>
     );
   });
-
-  console.log(winners);
 
   return (
     <table>
