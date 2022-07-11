@@ -1,0 +1,658 @@
+[
+  {
+    "team": "Alberquerque Atoms",
+    "seasons": {
+      "2011": {
+        "wins": 6,
+        "losses": 8,
+        "points": 1684,
+        "rs": 5,
+        "final": 5
+      },
+      "2012": {
+        "wins": 6,
+        "losses": 8,
+        "points": 1584,
+        "rs": 5,
+        "final": 6
+      },
+      "2013": {
+        "wins": 8,
+        "losses": 6,
+        "points": 1489,
+        "rs": 4,
+        "final": 4
+      },
+      "2014": {
+        "wins": 2,
+        "losses": 12,
+        "points": 1395,
+        "rs": 8,
+        "final": 6
+      },
+      "2015": {
+        "wins": 4,
+        "losses": 10,
+        "points": 1276,
+        "rs": 7,
+        "final": 5
+      },
+      "2016": {
+        "wins": 6,
+        "losses": 8,
+        "points": 1345,
+        "rs": 7,
+        "final": 8
+      },
+      "2017": {
+        "wins": 7,
+        "losses": 7,
+        "points": 1367,
+        "rs": 5,
+        "final": 6
+      },
+      "2018": {
+        "wins": 4,
+        "losses": 10,
+        "points": 1442,
+        "rs": 7,
+        "final": 8
+      },
+      "2019": {
+        "wins": 8,
+        "losses": 5,
+        "points": 1949,
+        "rs": 3,
+        "final": 2
+      },
+      "2020": {
+        "wins": 9,
+        "losses": 5,
+        "points": 2996,
+        "rs": 1,
+        "final": 4
+      },
+      "2021": {
+        "wins": 6,
+        "losses": 9,
+        "points": 1803,
+        "rs": 6,
+        "final": 7
+      }
+    }
+  },
+  {
+    "team": "Beeston Sillynannies",
+    "seasons": {
+      "2011": {
+        "wins": 5,
+        "losses": 9,
+        "points": 1503,
+        "rs": 8,
+        "final": 6
+      },
+      "2012": {
+        "wins": 3,
+        "losses": 11,
+        "points": 1505,
+        "rs": 7,
+        "final": 5
+      },
+      "2013": {
+        "wins": 3,
+        "losses": 11,
+        "points": 1326,
+        "rs": 8,
+        "final": 5
+      },
+      "2014": {
+        "wins": 8,
+        "losses": 6,
+        "points": 1459,
+        "rs": 5,
+        "final": 8
+      },
+      "2015": {
+        "wins": 3,
+        "losses": 11,
+        "points": 1355,
+        "rs": 8,
+        "final": 7
+      },
+      "2016": {
+        "wins": 7,
+        "losses": 7,
+        "points": 1446,
+        "rs": 5,
+        "final": 6
+      },
+      "2017": {
+        "wins": 4,
+        "losses": 10,
+        "points": 1379,
+        "rs": 8,
+        "final": 8
+      },
+      "2018": {
+        "wins": 10,
+        "losses": 3,
+        "points": 1661,
+        "rs": 1,
+        "final": 4
+      },
+      "2019": {
+        "wins": 4,
+        "losses": 10,
+        "points": 1852,
+        "rs": 8,
+        "final": 6
+      },
+      "2020": {
+        "wins": 4,
+        "losses": 10,
+        "points": 1893,
+        "rs": 8,
+        "final": 5
+      },
+      "2021": {
+        "wins": 5,
+        "losses": 10,
+        "points": 1987,
+        "rs": 7,
+        "final": 5
+      }
+    }
+  },
+  {
+    "team": "Ched Chiefs",
+    "seasons": {
+      "2011": {
+        "wins": 7,
+        "losses": 7,
+        "points": 1600,
+        "rs": 5,
+        "final": 8
+      },
+      "2012": {
+        "wins": 3,
+        "losses": 11,
+        "points": 1412,
+        "rs": 8,
+        "final": 8
+      },
+      "2013": {
+        "wins": 7,
+        "losses": 7,
+        "points": 1514,
+        "rs": 5,
+        "final": 7
+      },
+      "2014": {
+        "wins": 8,
+        "losses": 6,
+        "points": 1580,
+        "rs": 3,
+        "final": 1
+      },
+      "2015": {
+        "wins": 7,
+        "losses": 7,
+        "points": 1502,
+        "rs": 5,
+        "final": 6
+      },
+      "2016": {
+        "wins": 5,
+        "losses": 9,
+        "points": 1397,
+        "rs": 8,
+        "final": 7
+      },
+      "2017": {
+        "wins": 8,
+        "losses": 6,
+        "points": 1377,
+        "rs": 4,
+        "final": 2
+      },
+      "2018": {
+        "wins": 4,
+        "losses": 10,
+        "points": 1358,
+        "rs": 8,
+        "final": 7
+      },
+      "2019": {
+        "wins": 5,
+        "losses": 9,
+        "points": 1904,
+        "rs": 7,
+        "final": 5
+      },
+      "2020": {
+        "wins": 9,
+        "losses": 5,
+        "points": 1875,
+        "rs": 3,
+        "final": 3
+      },
+      "2021": {
+        "wins": 4,
+        "losses": 11,
+        "points": 1967,
+        "rs": 8,
+        "final": 6
+      }
+    }
+  },
+  {
+    "team": "Cheeseheads",
+    "seasons": {
+      "2011": {
+        "wins": 8,
+        "losses": 6,
+        "points": 1705,
+        "rs": 3,
+        "final": 2
+      },
+      "2012": {
+        "wins": 13,
+        "losses": 1,
+        "points": 1845,
+        "rs": 1,
+        "final": 4
+      },
+      "2013": {
+        "wins": 5,
+        "losses": 9,
+        "points": 1545,
+        "rs": 7,
+        "final": 8
+      },
+      "2014": {
+        "wins": 5,
+        "losses": 9,
+        "points": 1345,
+        "rs": 7,
+        "final": 5
+      },
+      "2015": {
+        "wins": 6,
+        "losses": 8,
+        "points": 1430,
+        "rs": 5,
+        "final": 8
+      },
+      "2016": {
+        "wins": 8,
+        "losses": 6,
+        "points": 1415,
+        "rs": 2,
+        "final": 3
+      },
+      "2017": {
+        "wins": 10,
+        "losses": 4,
+        "points": 1526,
+        "rs": 1,
+        "final": 4
+      },
+      "2018": {
+        "wins": 6,
+        "losses": 8,
+        "points": 1618,
+        "rs": 6,
+        "final": 5
+      },
+      "2019": {
+        "wins": 7,
+        "losses": 7,
+        "points": 2082,
+        "rs": 5,
+        "final": 7
+      },
+      "2020": {
+        "wins": 6,
+        "losses": 8,
+        "points": 1993,
+        "rs": 5,
+        "final": 7
+      },
+      "2021": {
+        "wins": 7,
+        "losses": 8,
+        "points": 2084,
+        "rs": 5,
+        "final": 8
+      }
+    }
+  },
+  {
+    "team": "Hammer of the North",
+    "seasons": {
+      "2011": {
+        "wins": 7,
+        "losses": 7,
+        "points": 1746,
+        "rs": 4,
+        "final": 1
+      },
+      "2012": {
+        "wins": 4,
+        "losses": 10,
+        "points": 1467,
+        "rs": 6,
+        "final": 7
+      },
+      "2013": {
+        "wins": 12,
+        "losses": 2,
+        "points": 1719,
+        "rs": 1,
+        "final": 2
+      },
+      "2014": {
+        "wins": 9,
+        "losses": 5,
+        "points": 1620,
+        "rs": 1,
+        "final": 2
+      },
+      "2015": {
+        "wins": 8,
+        "losses": 6,
+        "points": 1578,
+        "rs": 2,
+        "final": 4
+      },
+      "2016": {
+        "wins": 7,
+        "losses": 7,
+        "points": 1593,
+        "rs": 3,
+        "final": 1
+      },
+      "2017": {
+        "wins": 5,
+        "losses": 98,
+        "points": 1571,
+        "rs": 7,
+        "final": 5
+      },
+      "2018": {
+        "wins": 8,
+        "losses": 5,
+        "points": 1774,
+        "rs": 2,
+        "final": 3
+      },
+      "2019": {
+        "wins": 10,
+        "losses": 4,
+        "points": 2097,
+        "rs": 1,
+        "final": 1
+      },
+      "2020": {
+        "wins": 9,
+        "losses": 5,
+        "points": 2094,
+        "rs": 2,
+        "final": 1
+      },
+      "2021": {
+        "wins": 10,
+        "losses": 5,
+        "points": 2339,
+        "rs": 1,
+        "final": 2
+      }
+    }
+  },
+  {
+    "team": "Mysterious Badgers",
+    "seasons": {
+      "2011": {
+        "wins": 6,
+        "losses": 8,
+        "points": 1507,
+        "rs": 7,
+        "final": 7
+      },
+      "2012": {
+        "wins": 8,
+        "losses": 6,
+        "points": 1695,
+        "rs": 3,
+        "final": 2
+      },
+      "2013": {
+        "wins": 5,
+        "losses": 9,
+        "points": 1318,
+        "rs": 5,
+        "final": 5
+      },
+      "2014": {
+        "wins": 7,
+        "losses": 7,
+        "points": 1371,
+        "rs": 6,
+        "final": 7
+      },
+      "2015": {
+        "wins": 7,
+        "losses": 7,
+        "points": 1584,
+        "rs": 4,
+        "final": 1
+      },
+      "2016": {
+        "wins": 7,
+        "losses": 7,
+        "points": 1489,
+        "rs": 6,
+        "final": 5
+      },
+      "2017": {
+        "wins": 9,
+        "losses": 5,
+        "points": 1480,
+        "rs": 2,
+        "final": 1
+      },
+      "2018": {
+        "wins": 7,
+        "losses": 7,
+        "points": 1644,
+        "rs": 5,
+        "final": 6
+      },
+      "2019": {
+        "wins": 9,
+        "losses": 5,
+        "points": 2005,
+        "rs": 2,
+        "final": 4
+      },
+      "2020": {
+        "wins": 6,
+        "losses": 8,
+        "points": 1894,
+        "rs": 6,
+        "final": 8
+      },
+      "2021": {
+        "wins": 9,
+        "losses": 6,
+        "points": 1974,
+        "rs": 4,
+        "final": 4
+      }
+    }
+  },
+  {
+    "team": "Romo and Juliet",
+    "seasons": {
+      "2011": {
+        "wins": 8,
+        "losses": 6,
+        "points": 1799,
+        "rs": 2,
+        "final": 3
+      },
+      "2012": {
+        "wins": 11,
+        "losses": 3,
+        "points": 1725,
+        "rs": 2,
+        "final": 3
+      },
+      "2013": {
+        "wins": 8,
+        "losses": 6,
+        "points": 1671,
+        "rs": 5,
+        "final": 5
+      },
+      "2014": {
+        "wins": 8,
+        "losses": 6,
+        "points": 1642,
+        "rs": 4,
+        "final": 3
+      },
+      "2015": {
+        "wins": 13,
+        "losses": 1,
+        "points": 1848,
+        "rs": 1,
+        "final": 3
+      },
+      "2016": {
+        "wins": 7,
+        "losses": 7,
+        "points": 1579,
+        "rs": 4,
+        "final": 4
+      },
+      "2017": {
+        "wins": 8,
+        "losses": 6,
+        "points": 1502,
+        "rs": 3,
+        "final": 3
+      },
+      "2018": {
+        "wins": 8,
+        "losses": 6,
+        "points": 1672,
+        "rs": 3,
+        "final": 2
+      },
+      "2019": {
+        "wins": 6,
+        "losses": 8,
+        "points": 1930,
+        "rs": 6,
+        "final": 8
+      },
+      "2020": {
+        "wins": 6,
+        "losses": 8,
+        "points": 1836,
+        "rs": 7,
+        "final": 6
+      },
+      "2021": {
+        "wins": 9,
+        "losses": 6,
+        "points": 2133,
+        "rs": 3,
+        "final": 3
+      }
+    }
+  },
+  {
+    "team": "WD Forte",
+    "seasons": {
+      "2011": {
+        "wins": 9,
+        "losses": 5,
+        "points": 1694,
+        "rs": 1,
+        "final": 3
+      },
+      "2012": {
+        "wins": 8,
+        "losses": 6,
+        "points": 1509,
+        "rs": 4,
+        "final": 1
+      },
+      "2013": {
+        "wins": 6,
+        "losses": 8,
+        "points": 1639,
+        "rs": 5,
+        "final": 5
+      },
+      "2014": {
+        "wins": 9,
+        "losses": 5,
+        "points": 1673,
+        "rs": 2,
+        "final": 4
+      },
+      "2015": {
+        "wins": 8,
+        "losses": 6,
+        "points": 1337,
+        "rs": 3,
+        "final": 2
+      },
+      "2016": {
+        "wins": 9,
+        "losses": 5,
+        "points": 1605,
+        "rs": 1,
+        "final": 2
+      },
+      "2017": {
+        "wins": 5,
+        "losses": 9,
+        "points": 1432,
+        "rs": 6,
+        "final": 7
+      },
+      "2018": {
+        "wins": 8,
+        "losses": 6,
+        "points": 1566,
+        "rs": 4,
+        "final": 1
+      },
+      "2019": {
+        "wins": 7,
+        "losses": 7,
+        "points": 1745,
+        "rs": 4,
+        "final": 3
+      },
+      "2020": {
+        "wins": 7,
+        "losses": 7,
+        "points": 1808,
+        "rs": 4,
+        "final": 2
+      },
+      "2021": {
+        "wins": 10,
+        "losses": 5,
+        "points": 2139,
+        "rs": 2,
+        "final": 1
+      }
+    }
+  }
+]
