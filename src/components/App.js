@@ -9,7 +9,7 @@ export default function App() {
     <div className="container">
       <div className="header">
         <h1 className="title">Robin Hood Cup</h1>
-        <img src="../../images/favicon.ico" alt="Trophy" />
+        <img src="../../images/trophy.jpeg" alt="Trophy" className="trophy" />
       </div>
       <div className="summary">
         <Champions data={data} />

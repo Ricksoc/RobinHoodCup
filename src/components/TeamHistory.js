@@ -7,7 +7,7 @@ export default function TeamHistory({ data }) {
       <table key={nanoid()}>
         <thead>
           <tr>
-            <th>{team.name}</th>
+            <th colSpan={6}>{team.name}</th>
           </tr>
           <tr>
             <th>Season</th>

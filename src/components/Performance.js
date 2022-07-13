@@ -62,10 +62,10 @@ export default function Performance({ data }) {
   });
 
   return (
-    <table>
+    <table className="performance">
       <thead>
         <tr className="title">
-          <th>Team Performance</th>
+          <th colSpan={6}>Team Performance</th>
         </tr>
         <tr className="sub-title">
           <th>Team</th>

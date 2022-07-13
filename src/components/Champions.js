@@ -31,10 +31,10 @@ export default function Champions({ data }) {
   });
 
   return (
-    <table>
+    <table className="champions">
       <thead>
         <tr className="title">
-          <th>League Champions</th>
+          <th colSpan={2}>League Champions</th>
         </tr>
         <tr className="sub-title">
           <th>Season</th>
