@@ -100,6 +100,15 @@
         "points": 1803,
         "rs": 6,
         "final": 7
+      },
+      {
+        "season": "2022",
+        "wins": 3,
+        "losses": 12,
+        "ties": 0,
+        "points": 1983,
+        "rs": 8,
+        "final": 8
       }
     ]
   },
@@ -203,6 +212,15 @@
         "ties": 0,
         "points": 1987,
         "rs": 7,
+        "final": 5
+      },
+      {
+        "season": "2022",
+        "wins": 8,
+        "losses": 7,
+        "ties": 0,
+        "points": 2141,
+        "rs": 5,
         "final": 5
       }
     ]
@@ -308,6 +326,15 @@
         "points": 1967,
         "rs": 8,
         "final": 6
+      },
+      {
+        "season": "2022",
+        "wins": 9,
+        "losses": 6,
+        "ties": 0,
+        "points": 1959,
+        "rs": 4,
+        "final": 2
       }
     ]
   },
@@ -412,6 +439,15 @@
         "points": 2084,
         "rs": 5,
         "final": 8
+      },
+      {
+        "season": "2022",
+        "wins": 4,
+        "losses": 11,
+        "ties": 0,
+        "points": 1775,
+        "rs": 7,
+        "final": 7
       }
     ]
   },
@@ -516,6 +552,15 @@
         "points": 2339,
         "rs": 1,
         "final": 2
+      },
+      {
+        "season": "2022",
+        "wins": 11,
+        "losses": 4,
+        "ties": 0,
+        "points": 2166,
+        "rs": 1,
+        "final": 3
       }
     ]
   },
@@ -620,6 +665,15 @@
         "points": 1974,
         "rs": 4,
         "final": 4
+      },
+      {
+        "season": "2022",
+        "wins": 9,
+        "losses": 6,
+        "ties": 0,
+        "points": 2131,
+        "rs": 3,
+        "final": 1
       }
     ]
   },
@@ -724,6 +778,15 @@
         "points": 2133,
         "rs": 3,
         "final": 3
+      },
+      {
+        "season": "2022",
+        "wins": 9,
+        "losses": 6,
+        "ties": 0,
+        "points": 2158,
+        "rs": 2,
+        "final": 4
       }
     ]
   },
@@ -828,6 +891,15 @@
         "points": 2139,
         "rs": 2,
         "final": 1
+      },
+      {
+        "season": "2022",
+        "wins": 7,
+        "losses": 8,
+        "ties": 0,
+        "points": 2091,
+        "rs": 6,
+        "final": 6
       }
     ]
   }
